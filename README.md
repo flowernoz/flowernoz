@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Gulnoza
-- 👀 I’m interested in Coding and French 
-- 🌱 I’m currently learning NodeJs
+- 💫 I’m interested in Coding and French 
+- 🎯 I’m currently learning NodeJs
+- 💖 I love having a coffee with chocolate when I'm coding
