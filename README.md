@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Gulnoza
-- 💫 I’m interested in Coding and French 
-- 🎯 I’m currently learning NodeJs
-- 💖 I love having a coffee with chocolate when I'm coding
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70518F4&background=F515FF00&multiline=true&random=false&width=900&height=300&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Gulnoza;-+%F0%9F%92%98+I%E2%80%99m+Passionate+about+Coding;-+%F0%9F%8E%AF+I%E2%80%99m+currently+learning+NodeJs;-+%E1%83%A6+I+love+having+a+coffee+with+chocolate+when+I'm+coding" alt="Typing SVG" /></a>
